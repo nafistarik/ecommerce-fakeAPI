@@ -54,4 +54,4 @@ This project is a responsive product listing application which utilizes the Fake
 
    ```
 
-4. **_Open your browser and navigate to_** http://localhost:3000.
+4. **_Open your browser and navigate to_** http://localhost:5173.
